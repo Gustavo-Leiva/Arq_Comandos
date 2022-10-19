@@ -48,3 +48,6 @@ n
 sudo mkfs.ext4 /dev/disco
 sudo mount /dev/disco /home/mount
 lsblkndos
+
+sudo du -sh /etc/ para ver el tamaño de etc
+sudo du -sh /home/ para ver el tamaño de home
